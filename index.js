@@ -3,4 +3,6 @@
 import {formatDate} from "./src/JSON"
 
 
-export default  formatDate;
+module.exports={
+    formatDate
+}
